@@ -1,4 +1,4 @@
-## Airbnb Console Clone: A Python Project
+## Airbnb Console Clone: A Python Project.
 
 This project is a **text-based console application** that replicates some core functionalities of **Airbnb**.
 
